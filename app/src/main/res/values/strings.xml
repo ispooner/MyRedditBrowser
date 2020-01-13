@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRedditBrowser</string>
+    <string name="post_comments">%d Comments</string>
+    <string name="post_ups">%d Ups</string>
+    <string name="post_downs">%d Downs</string>
+    <string name="post_defaultname">DefaultName</string>
+    <string name="post_test_text">Test Text</string>
+</resources>
